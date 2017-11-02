@@ -4,12 +4,12 @@ Some sample programs I've written for the calliope mini.
 * binarycounter + 
 count the touches of P0. The value is displayed as binary number on the led matrix
 * compass +
-an arrow on the led matrix shows where is north 
+an arrow on the led matrix ponits in direction of north 
 * falling block +
-a game unsing the led matrix. You have to capture falling blocks
+a game using the led matrix. You have to capture falling blocks
 * rolling ball +
 move the led on the matrix by tilting the calliope
 * die + 
-a die simulation using button `A
+a die simulation using button `A`
 * math-trainer +
-a simple trainer for multiplications`
+a simple trainer for multiplications
