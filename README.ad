@@ -9,3 +9,5 @@ an arrow on the led matrix shows where is north
 a game unsing the led matrix. You have to capture falling blocks
 * rolling ball +
 move the led on the matrix by tilting the calliope
+* die + 
+a die simulation using button `A`
