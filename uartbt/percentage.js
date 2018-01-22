@@ -9,8 +9,7 @@ input.onButtonPressed(Button.A, () => {
     }
 })
 bluetooth.onBluetoothConnected(() => {
-    connected = true
-    basic.showIcon(IconNames.Triangle)
+    connected = true    
 })
 bluetooth.onBluetoothDisconnected(() => {
     connected = false
