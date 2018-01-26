@@ -10,4 +10,5 @@ how to pair Calliope using ```bluetoothcfg```:
 > trust <baddr>
 > pair <baddr>
 ```
-wirte  <baddr> in ```sendPercentage.sh```
+
+write  ```<baddr>``` in ```sendPercentage.sh```
